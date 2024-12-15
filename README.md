@@ -12,7 +12,7 @@ Program ini adalah implementasi server-client berbasis TCP menggunakan bahasa C.
 6. Keluar dengan 'exit': Klien dapat mengetik exit untuk memutuskan koneksi dengan server.
 7. Deteksi Server Mati: Jika server mati tiba-tiba, klien akan langsung keluar tanpa hang.
 8. Keamanan: Input dari klien diproses dengan aman untuk mencegah buffer overflow.
-9. Efisiensi: Server dapat menangani lebih dari 6 klien secara bersamaan tanpa penurunan performa.
+9. Efisiensi: Server dapat menangani setidaknya lebih dari 6 klien secara bersamaan tanpa penurunan performa.
 10. Keandalan: Server tetap melayani klien meskipun salah satu koneksi gagal.
 
 ## Cara Menjalankan Program
